@@ -6,4 +6,4 @@ Factorio mod: Places a new tree
 * Update for 0.16.x
 
 ## Todo:
-* Make it works
+* Release update
