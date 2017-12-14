@@ -6,6 +6,7 @@ data:extend({
     type = "item",
     name = "tree-brush",
     icon = "__TreeBrush__/tree-brush/transport-belt-icon.png",
+    icon_size = 32,
     flags = {"goes-to-quickbar"},
     subgroup = "terrain",
     order = "c[landfill]-b[tree-brush]",
