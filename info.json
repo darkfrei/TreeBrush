@@ -3,7 +3,9 @@
   "version": "0.1.0",
   "title": "Tree Brush",
   "author": "darkfrei",
+  "homepage":"",
   "description": "Places a new tree",
   "dependencies": ["base"],
-  "factorio_version": "0.16"
+  "factorio_version": "0.16",
+  "Licence": "MIT"
 }
