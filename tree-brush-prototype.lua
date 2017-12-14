@@ -36,7 +36,7 @@ data:extend({
     type = "transport-belt",
     name = "tree-brush",
     icon = "__TreeBrush__/tree-brush/transport-belt-icon.png",
-    icon_size = 32,
+		icon_size = 32,
 	 
     --flags = {"placeable-neutral", "player-creation"},
 	 
